@@ -27,7 +27,7 @@ parso==0.8.2
 pexpect==4.8.0
 pg-chameleon==2.0.14
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==9.0.0
 ply==3.11
 pproxy==2.3.5
 prompt-toolkit==3.0.18
