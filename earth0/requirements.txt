@@ -20,7 +20,7 @@ matplotlib==3.4.1
 meson==0.55.3
 mysql-replication==0.21
 networkx==2.5.1
-numpy==1.20.2
+numpy==1.22.0
 oauthlib==3.1.0
 packaging==20.9
 parso==0.8.2
