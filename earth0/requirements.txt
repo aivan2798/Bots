@@ -1,4 +1,4 @@
-cryptography==3.4.7
+cryptography==39.0.1
 cycler==0.10.0
 Cython==0.29.22
 Flask==2.0.1
