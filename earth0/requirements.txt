@@ -40,7 +40,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 pycryptodomex==3.10.1
 pydot==1.4.2
-Pygments==2.8.1
+Pygments==2.15.0
 PyMySQL==0.9.3
 pyparsing==2.4.7
 pysmi==0.3.4
