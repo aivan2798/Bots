@@ -47,7 +47,7 @@ pysmi==0.3.4
 pysnmp==4.4.12
 python-dateutil==2.8.1
 python-telegram-bot==13.7
-requests==2.24.0
+requests==2.31.0
 uritemplate==3.0.1
 urllib3==1.26.5
 websocket-client==1.1.0
